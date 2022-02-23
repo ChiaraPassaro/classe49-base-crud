@@ -18,6 +18,7 @@ use Illuminate\Support\Facades\Route;
 // });
 //resource scrive per noi direttamente tutte le rotte necessarie per una CRUD, ogni rotta corrisponde alle funzioni create per noi in controller da laravel
 Route::resource('keyboards', 'KeyboardController');
+Route::resource('monitors', 'MonitorController');
 
 //esplicitazione di rotte se vogliamo scriverle una alla volta in autonomia
 // Route::get('/keyboars', 'KeyboardController@index')->name('keyboards.index');
