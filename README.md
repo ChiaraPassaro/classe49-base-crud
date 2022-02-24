@@ -20,4 +20,4 @@ Table
 4. Create `migration`, `model`, `seeder`, `controller` 
 5. Create resources routes in` web.php`
 6. Create `Index`, `Show` and `Create` functions
-7. Create Layouts and pages for this routes
+7. Create Layouts and pages for these routes
